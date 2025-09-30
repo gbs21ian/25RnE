@@ -1,0 +1,8 @@
+9,9,N-green;E-red;S-red;W-red,20
+9,9,N-red;E-green;S-red;W-red,20
+9,9,N-red;E-red;S-green;W-red,20
+9,9,N-red;E-red;S-red;W-green,20
+0,10,N-green;E-red;S-red;W-red,15
+0,10,N-red;E-green;S-red;W-red,15
+19,10,N-green;E-red;S-red;W-red,15
+19,10,N-red;E-green;S-red;W-red,15
